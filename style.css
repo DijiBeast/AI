@@ -1,0 +1,11 @@
+body
+{
+    background-size: cover;
+}
+
+canvas
+{
+    border: 10px solid lightgreen;
+    border-radius: 20px;
+    margin-top: 20px;
+}
